@@ -175,11 +175,6 @@
         width: 70px;
     }
 
-    .services .service img:hover {
-        width: 70px;
-        transform: scale(1.2);
-    }
-
     .services .service .security {
         width: 55px;
     }
